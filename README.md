@@ -6,7 +6,7 @@
 ## Acerca de mí
 🎓 Formación: Ingeniero Electrónico (UNAC)  
 📍 Ubicación: Lima - Perú  
-💼 Experiencia: ROMOBOA S.A.C | Marina de Guerra del Perú | LABOTEC  
+💼 Experiencia: ROMOBOA S.A.C | Marina de Guerra del Perú 
 🌱 Aprendizaje actual: IoT con ESP32 + MQTT, documentación técnica en GitHub  
 💬 Pregúntame sobre: STM32, ESP32, RTOS, diseño de PCBs, integración de protocolos industriales  
 
