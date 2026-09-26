@@ -9,7 +9,6 @@
 💼 Experiencia: ROMOBOA S.A.C | Marina de Guerra del Perú | LABOTEC  
 🌱 Aprendizaje actual: IoT con ESP32 + MQTT, documentación técnica en GitHub  
 💬 Pregúntame sobre: STM32, ESP32, RTOS, diseño de PCBs, integración de protocolos industriales  
-⚡ Dato curioso: Disfruto tanto del laboratorio como de la documentación técnica, porque ambos cuentan la historia del sistema.
 
 ---
 
@@ -23,11 +22,10 @@
 ---
 
 ## Proyectos Destacados
-- 📡 Telemetría industrial con STM32 + Quectel (TozziGreen)  
-- ⚡ Adquisición de datos energéticos con Rock4 SBC (Ergon Perú)  
-- 🌫️ Sistemas críticos de detección de humo y humedad con ESP32 (ElectroPerú)  
-- 🔬 Firmware para muestreadores de partículas de alta precisión (ALS)  
-- ⚓ Modernización de sistemas de control naval con C# y LabVIEW (Marina de Guerra del Perú)  
+- 📡 [Telemetría industrial con STM32 + Quectel (TozziGreen)](https://github.com/Robert471/battery-gprs-monitoring)  
+- ⚡ [Adquisición de datos energéticos con Rock4 (Ergon Perú)](https://github.com/Robert471/rock4se-datalogger)  
+- 🌫️ [Sistemas críticos de detección de humo y humedad con ESP32 (ElectroPerú)](https://github.com/Robert471/humidity-smoke-mqtt-monitor)  
+- 🔬 [Firmware para muestreadores de partículas de alta precisión (ALS)](https://github.com/Robert471/particle-sampler-replica)  
 
 ---
 
