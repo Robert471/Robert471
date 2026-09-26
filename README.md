@@ -6,7 +6,7 @@
 ## Acerca de mí
 🎓 Formación: Ingeniero Electrónico (UNAC)  
 📍 Ubicación: Lima - Perú  
-💼 Experiencia: ROMOBOA S.A.C | Marina de Guerra del Perú 
+💼 Experiencia: ROMOBOA S.A.C | Maestrale | Marina de Guerra del Perú  
 🌱 Aprendizaje actual: IoT con ESP32 + MQTT, documentación técnica en GitHub  
 💬 Pregúntame sobre: STM32, ESP32, RTOS, diseño de PCBs, integración de protocolos industriales  
 
@@ -16,7 +16,7 @@
 - **Lenguajes:** C, C++, C# (.NET), Python, LabVIEW, Assembly  
 - **Microcontroladores:** STM32, ARM Cortex, ESP32, PIC/dsPIC, AVR, Rock4 SBC  
 - **Entornos:** RTOS, LabVIEW Core, DAQ/USB  
-- **Hardware & Lab:** KiCAD, EAGLE, Osciloscopio, Multímetro, Analizador Lógico, PCB Design  
+- **Hardware & Lab:** KiCAD, EAGLE, Altium, EasyEDA, Osciloscopio, Multímetro, Analizador Lógico, PCB Design  
 - **Otros:** Excel avanzado, Git & GitHub  
 
 ---
@@ -40,5 +40,3 @@
 
 ## Actividad Reciente en GitHub
 Aquí podrás ver mis repositorios y contribuciones en proyectos de **firmware, IoT y documentación técnica**.
-
----
